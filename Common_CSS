@@ -53,3 +53,39 @@ main {
     font-size: 1.2em;
     line-height: 1.6;
 }
+/* Existing styles ... */
+
+/* Features section */
+#features {
+    background-color: #e6e6e6;
+    padding: 2em;
+    margin: 2em 0;
+    border-radius: 10px;
+}
+
+#features h2 {
+    font-size: 2em;
+}
+
+#features ul {
+    margin-top: 1em;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Call-to-action section */
+#call-to-action {
+    background-color: #f2f2f2;
+    padding: 2em;
+    margin: 2em 0;
+    border-radius: 10px;
+}
+
+#call-to-action h2 {
+    font-size: 2em;
+}
+
+#call-to-action p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
